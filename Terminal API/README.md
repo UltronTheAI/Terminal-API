@@ -14,7 +14,7 @@ pip install -r requirements.txt
 To run the Terminal API, navigate to the directory containing the script and run the following command in your terminal:
 
 ```bash
-python app.py
+python TerminalAPI.py
 ```
 
 The API will start running on `localhost` at port `5000`.
